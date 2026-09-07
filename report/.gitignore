@@ -1,0 +1,12 @@
+# PyCharm
+.idea/
+*.iml
+__pycache__/
+*.pyc
+
+# Allure运行结果
+allure-results/
+report/allure-report/
+
+# 系统文件
+.DS_Store
